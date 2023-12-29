@@ -18,6 +18,9 @@ int main()
 		printf("%d -",b);
 		putchar(10);
 	}
+
+	//以下代码是在github端去修改的内容
+ 	printf("write hello on github\n");
 	return 0;
 	
 }
